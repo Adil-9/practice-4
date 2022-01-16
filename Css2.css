@@ -1,0 +1,17 @@
+img{
+	height: auto;
+	width: auto;
+	max-height: 510px;
+	max-width: 510px;
+}
+body{
+	width: 100%;
+	background-color: #c0c0c0;
+}
+li{
+	margin-top: 3px;
+}
+#testimonials{
+	padding: 4% 7% 1% 7% ;
+	text-align: center;
+}
